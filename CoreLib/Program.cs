@@ -10,6 +10,7 @@ namespace CoreLib
     {
         static void Main(string[] args)
         {
+            Console.Write("hello");
         }
     }
 }
