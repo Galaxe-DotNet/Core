@@ -14,6 +14,7 @@ namespace CoreLib
             Console.Write("hello New");
             // multi user check
             Console.Write("hello New - 001");
+            Console.Write("hello Killer");
         }
     }
 }
